@@ -1,0 +1,11 @@
+.tlist{
+	list-style-type: none;
+}
+
+.tlist > li{
+	color: white;
+	transition: 0.5s;
+}
+.tlist > li:hover{
+	transform: scale(1.05);	
+}
